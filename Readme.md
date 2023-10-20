@@ -5,4 +5,6 @@ This course will teach you React.js in a practice-oriented way, using all the la
 ### Content
 
 - [X] Sending Http Requests (e.g. Connecting to a Database)
-- [ ] Building Custom React Hooks 
+- [X] Building Custom React Hooks 
+- [ ] Working with forms & user input
+- [ ] Practice project - Adding HTTP & forms to The Food order App
