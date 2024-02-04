@@ -6,5 +6,10 @@ This course will teach you React.js in a practice-oriented way, using all the la
 
 - [X] Sending Http Requests (e.g. Connecting to a Database)
 - [X] Building Custom React Hooks 
-- [ ] Working with forms & user input
-- [ ] Practice project - Adding HTTP & forms to The Food order App
+- [X] Working with forms & user input
+- [X] Practice project - Adding HTTP & forms to The Food order App
+- [] Diving into Redux (An Alternative To The Context API)
+- [] Advanced Redux
+- [] Building a Multi-Page SPA with React Router
+- [] Adding Authentication To React Apps
+- [] Section 23: Deploying React Apps
