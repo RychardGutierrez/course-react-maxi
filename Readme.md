@@ -9,7 +9,7 @@ This course will teach you React.js in a practice-oriented way, using all the la
 - [X] Working with forms & user input
 - [X] Practice project - Adding HTTP & forms to The Food order App
 - [X] Diving into Redux (An Alternative To The Context API)
-- [] Advanced Redux
-- [] Building a Multi-Page SPA with React Router
-- [] Adding Authentication To React Apps
-- [] Section 23: Deploying React Apps
+- [ ] Advanced Redux
+- [ ] Building a Multi-Page SPA with React Router
+- [ ] Adding Authentication To React Apps
+- [ ] Deploying React Apps
