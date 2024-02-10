@@ -5,10 +5,10 @@ import Products from './components/Shop/Products';
 
 function App() {
   const toggleModal = useSelector(({ modal }) => modal.toggle);
-  console.log(toggleModal);
+  const { items } = useSelector(({ cart }) => cart);
   return (
     <Layout>
-      {toggleModal && <Cart />}
+      {toggleModal && <Cart items={items} />}
       <Products />
     </Layout>
   );
