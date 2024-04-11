@@ -5,7 +5,7 @@ import { useEffect } from 'react';
 import { productActions } from '../../store/product';
 import { cartActions } from '../../store/cart';
 
-const Products = (props) => {
+const Products = () => {
   const dispatch = useDispatch();
   const products = useSelector(({ product }) => product.products);
 
