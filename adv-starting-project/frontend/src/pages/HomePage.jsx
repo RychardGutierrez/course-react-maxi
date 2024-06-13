@@ -1,5 +1,7 @@
+import PageContent from './PageContent';
+
 const HomePage = () => {
-  return <div>HomePage</div>;
+  return <PageContent title="Welcome!"><p>Browse all out amazing events</p></PageContent>;
 };
 
 export default HomePage;
